@@ -12,3 +12,6 @@ The objectives of this report are to:
 • Investigate correlations between principal offense categories, outcomes, and other relevant variables to uncover potential relationships and insights.
 
 • Develop and evaluate prediction models, including linear regression, clustering, and classification techniques, to forecast future trends and outcomes based on historical data.
+
+![Plot Title](plot.png)
+
