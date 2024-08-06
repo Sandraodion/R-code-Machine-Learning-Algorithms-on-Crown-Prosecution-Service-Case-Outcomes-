@@ -99,3 +99,5 @@ The objectives of this report are to:
 
 ## Covariance of the Unsuccessful Crime Cases
 ![Covariance of the Unsuccessful Crime Cases](My%20R%20plots/covariance%20of%20the%20unsuccessful.png)
+
+
